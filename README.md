@@ -2,9 +2,13 @@
 
 LA01 - Data Mining
 
+
+
 ### Primary Instructor:
 
 NICHOLAUS HENDRIK JEREMY, S.Kom., M.Kom.
+
+
 
 ### Team Members:
 
